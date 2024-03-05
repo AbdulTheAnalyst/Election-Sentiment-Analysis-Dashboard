@@ -59,6 +59,11 @@ The sentiment analysis dashboard provides real-time insights into public sentime
 - Implement advanced sentiment analysis techniques.
 - Explore options for faster data refresh rates on Power BI.
 
+## Contributors
+
+- [OLANBIWONINU WALIULAHI AYOMIDE](https://github.com/ayomidecode)
+- [Muhammad King Yakub](https://github.com/Omotade-MY)
+
 ## References
 
 - [Tweepy Documentation](https://docs.tweepy.org/en/stable/)
